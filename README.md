@@ -1,5 +1,11 @@
 # 📚 Library Book Issue System
 
+## 📸 Screenshots
+
+![Output 1](https://raw.githubusercontent.com/AbubakarTechy/SCD-Assignment-3/main/GUI%20Screenshots/Output%201.png)
+
+![Output 2](https://raw.githubusercontent.com/AbubakarTechy/SCD-Assignment-3/main/GUI%20Screenshots/Output%202.png)
+
 A Java Swing GUI application for managing library book issuance, built as part of the Software Construction & Development (SCD) course at the University of Central Punjab (UCP).
 
 ## 🖥️ Features
